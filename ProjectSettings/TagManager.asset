@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bird
+  - Duck
+  - Cloud
+  - CloudBig
+  - Asteroid
+  - Comet
+  - Ufo
+  - PressureWave
+  - Feather
+  - CloudBottom
+  - CloudLeft
+  - CloudRight
+  - Pressurewave
+  - Water
+  - Soda
+  - Burger
+  - Sandwich
+  - Present
+  - Teddy
+  - Firework
+  - RocketFire
+  - Lightning
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bird
+  - Feather
+  - Cloud
+  - Decoration
+  - PhysicalParticle
+  - RustParticle
+  - Player
+  - CloudParticle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 830799731
+    locked: 0
